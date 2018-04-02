@@ -1,5 +1,5 @@
 # puppeteer-spider-tilc-teachers
-A simple spider demo with node-js and puppeteer
+A simple spider demo with node.js and puppeteer
 ## How to use
     npm install
 ### spider.js
