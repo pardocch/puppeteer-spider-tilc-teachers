@@ -5,10 +5,13 @@ A simple spider demo with node.js and puppeteer
 npm install 
 ```
 ## spider.js
+* First, you need tilc's username and password :P
 * get datas from the multiple pages
 * save it to json file.
 ### How To Use
-``` node spider.js ```
+```
+node spider.js
+```
 ![spider.js](https://github.com/pardocch/puppeteer-spider-tilc-teachers/raw/master/spider.png)
 ## decode.js
 * decode json file
