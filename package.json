@@ -3,6 +3,7 @@
   "version": "",
   "dependencies": {
     "mongoose": "^5.0.14",
-    "puppeteer": "^1.2.0"
+    "puppeteer": "^1.2.0",
+    "lodash": ">=4.17.11"
   }
 }
